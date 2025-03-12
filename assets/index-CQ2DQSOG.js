@@ -387,7 +387,7 @@ Error generating stack: `+h.message+`
     height: 100%;
   }
 `,TO=me.div`
-  width: 100%;
+  width: 500px;
   height: 100%;
   background-color: #ccc;
 `,EO=me.div`
