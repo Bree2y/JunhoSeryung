@@ -387,12 +387,12 @@ Error generating stack: `+h.message+`
     height: 100%;
   }
 `,TO=me.div`
-  width: 500px;
-  height: 100%;
+  width:100%;
+  height: 300px;
   background-color: #ffffff;
 `,EO=me.div`
   width: 90%;
-  height: 300px; /* 비디오 높이에 맞게 조정 */
+  height: 150px; /* 비디오 높이에 맞게 조정 */
   background-color: #ffffff;
 `,AO=()=>K("div",{children:Re(kO,{children:[Re(Fy,{children:[K(Ny,{src:zw}),Re(bO,{children:["bride.",K("strong",{children:" 세령"})]})]}),Re(Fy,{children:[K(Ny,{src:Fw}),Re(IO,{children:["groom.",K("strong",{children:" 준호"})]})]})]})}),kO=me.div`
   display: flex;
