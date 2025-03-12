@@ -1,6 +1,6 @@
 import styled from '@emotion/styled';
 import data from 'data.json';
-import { Caption, Paragraph } from '@/components/Text.tsx';
+import { Paragraph } from '@/components/Text.tsx';
 
 const Invitation = () => {
   const { greeting } = data;

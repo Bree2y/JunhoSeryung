@@ -4,13 +4,7 @@ import { Gallery, Item } from 'react-photoswipe-gallery';
 import 'photoswipe/style.css';
 import images from '@/layout/Gallery/image';
 
-/** 각 이미지 정보 타입 (예시) */
-interface ImageType {
-  source: string;
-  width: number;
-  height: number;
-  alt?: string;
-}
+
 
 const PhotoGallery = () => {
   const [visibleCount, setVisibleCount] = useState(4);
