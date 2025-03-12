@@ -436,7 +436,7 @@ Error generating stack: `+h.message+`
   border: none;
   border-top: 1px solid #99858a;
   margin: 10px 0;
-`,MO=()=>K(DO,{children:Re(zO,{children:["김준호 ♥ 김세령",K("br",{}),"25.03.29 3:30PM",K("br",{}),"호텔 인터불고"]})}),DO=me.div`
+`,MO=()=>K(DO,{children:Re(zO,{children:["김준호 ♥ 이세령",K("br",{}),"25.03.29 3:30PM",K("br",{}),"호텔 인터불고"]})}),DO=me.div`
   display: flex;
   justify-content: center;
   align-items: center;
