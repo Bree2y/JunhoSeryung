@@ -1,7 +1,7 @@
 {
   "greeting": {
     "title": "장세모 \uD83D\uDC8D 황네모\n결혼합니다!",
-    "message": "저희 결혼합니다.\n\n서로에게 알맞은 온도로 따뜻하던 우리.\n부부로서 첫걸음을 내딛는 그 설렘의 순간에\n소중한 분들을 초대합니다.",
+    "message": "7년의 연애를 마치고 부부로 새로운 시작을 하고자 합니다. \n서로 돕는 배필이 되어 하나님을 나타내는\n거룩하고 빛 된 가정이 되겠습니다. \n그 첫걸음에 함께하셔서 저희의 앞날을 축복해 주세요.",
     "host": {
       "groom": {
         "name": "세모",
@@ -32,7 +32,7 @@
         ]
       }
     },
-    "eventDetail": "2024년 2월 17일 (토) 14:00\n아펠가모 공덕 라로브홀"
+    "eventDetail": "25.03.29 3:30PM <strong>호텔 인터불고</strong>"
   },
   "hostInfo": [
     {
@@ -87,12 +87,12 @@
     }
   ],
   "mapInfo": {
-    "address1": "아펠가모 공덕 라로브홀",
-    "address2": "서울 마포구 마포대로 92\n효성해링턴스퀘어 B동 7층\n02-2197-0230",
+    "address1": "호텔 인터불고 파크빌리지홀",
+    "address2": "대구 수성구 팔현길 212",
     "naverMap": "https://map.naver.com/p/directions/-/14132311.1099497,4514956.9078363,%EC%95%84%ED%8E%A0%EA%B0%80%EB%AA%A8%20%EA%B3%B5%EB%8D%95,1929913788,PLACE_POI/-/transit?c=15.00,0,0,0,dh",
     "kakaoMap": "https://map.kakao.com/?map_type=TYPE_MAP&target=car&rt=,,489503,1123003&rt1=&rt2=%EC%95%84%ED%8E%A0%EA%B0%80%EB%AA%A8%20%EA%B3%B5%EB%8D%95%EC%A0%90&rtIds=,630786038",
-    "lat": 37.54222,
-    "lon": 126.952708
+    "lat": 35.874374, 
+    "lon":  128.659743
   },
   "locationInfo": [
     {

@@ -9,11 +9,13 @@ const Location = () => {
   const { mapInfo } = data;
   return (
     <LocationWrapper>
-      <PointTitle>{mapInfo.address1}</PointTitle>
       <Caption textAlign={'center'}>{mapInfo.address2}</Caption>
+      <PointTitle>{mapInfo.address1}</PointTitle>
+      <Caption textAlign={'center'}>(호텔 인터불고 엑스코와 다른 곳이오니 주소 확인 부탁드립니다)</Caption>
       <Map />
-      <MapButtons />
+      
       <Address />
+      <MapButtons />
     </LocationWrapper>
   );
 };
@@ -21,7 +23,7 @@ const Location = () => {
 export default Location;
 
 const LocationWrapper = styled.div`
-  width: 90%;
+  width: 100%;
   display: flex;
   flex-direction: column;
 `;
